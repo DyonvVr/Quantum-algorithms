@@ -128,4 +128,4 @@ brute_force_result = vqe.brute_force()
 print("Brute force minimal energy: ", brute_force_result)
 
 optimisation_result = vqe.optimise()
-print("Minimal found energy: ", optimisation_result)
+print("Minimum energy found: ", optimisation_result)
